@@ -1,0 +1,21 @@
+{
+  "name": "Custom Radar Chart",
+  "organization": "Chirp",
+  "description": "A custom radar chart using Chart.js",
+  "logoUrl": "",
+  "supportUrl": "",
+  "devMode": true,
+  "components": [
+    {
+      "name": "RadarChart",
+      "script": "radar_chart.js",
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo-placeholder.svg"
+    }
+  ],
+  "resources": {
+    "js": [
+      "https://cdn.jsdelivr.net/npm/chart.js"
+    ],
+    "css": []
+  }
+}
